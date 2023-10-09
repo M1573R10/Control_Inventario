@@ -1,0 +1,15 @@
+C:\Kevin\2023-2\DIARS\Proyecto final\Control Inventario Software\Capa Datos\obj\Debug\net7.0\Capa_Datos.csproj.AssemblyReference.cache
+C:\Kevin\2023-2\DIARS\Proyecto final\Control Inventario Software\Capa Datos\obj\Debug\net7.0\Capa_Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kevin\2023-2\DIARS\Proyecto final\Control Inventario Software\Capa Datos\obj\Debug\net7.0\Capa_Datos.AssemblyInfoInputs.cache
+C:\Kevin\2023-2\DIARS\Proyecto final\Control Inventario Software\Capa Datos\obj\Debug\net7.0\Capa_Datos.AssemblyInfo.cs
+C:\Kevin\2023-2\DIARS\Proyecto final\Control Inventario Software\Capa Datos\obj\Debug\net7.0\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Kevin\2023-2\DIARS\Proyecto final\Control Inventario Software\Capa Datos\bin\Debug\net7.0\Capa_Datos.deps.json
+C:\Kevin\2023-2\DIARS\Proyecto final\Control Inventario Software\Capa Datos\bin\Debug\net7.0\Capa_Datos.dll
+C:\Kevin\2023-2\DIARS\Proyecto final\Control Inventario Software\Capa Datos\bin\Debug\net7.0\Capa_Datos.pdb
+C:\Kevin\2023-2\DIARS\Proyecto final\Control Inventario Software\Capa Datos\obj\Debug\net7.0\Capa_Datos.dll
+C:\Kevin\2023-2\DIARS\Proyecto final\Control Inventario Software\Capa Datos\obj\Debug\net7.0\refint\Capa_Datos.dll
+C:\Kevin\2023-2\DIARS\Proyecto final\Control Inventario Software\Capa Datos\obj\Debug\net7.0\Capa_Datos.pdb
+C:\Kevin\2023-2\DIARS\Proyecto final\Control Inventario Software\Capa Datos\obj\Debug\net7.0\ref\Capa_Datos.dll
+C:\Kevin\2023-2\DIARS\Proyecto final\Control Inventario Software\Capa Datos\bin\Debug\net7.0\Capa_Entidad.dll
+C:\Kevin\2023-2\DIARS\Proyecto final\Control Inventario Software\Capa Datos\bin\Debug\net7.0\Capa_Entidad.pdb
+C:\Kevin\2023-2\DIARS\Proyecto final\Control Inventario Software\Capa Datos\obj\Debug\net7.0\Capa_Datos.csproj.CopyComplete
